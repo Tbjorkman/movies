@@ -16,10 +16,12 @@ body
 header
 {
     grid-area: hd;
+    padding: 1em;
 }
 main
 {
     grid-area: ma;
+    padding: 1em;
 }
 body main
 {
@@ -31,5 +33,6 @@ body main
 }
 footer
 {
+    padding: 1em;
     grid-area: ft;
 }
