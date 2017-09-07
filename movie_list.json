@@ -1,3 +1,34 @@
 [
-
+  {
+    "name"        : "It",
+    "genre"       : "drama / horror",
+    "year"        : "2017",
+    "director"    : "Andy Muschietti",
+    "duration"    : "135 min",
+    "description" : "A group of bullied kids band together when a monster, taking the appearance of a clown, begins hunting children."
+  },
+  {
+    "name"        : "Home Again",
+    "genre"       : "comedy / drama / romance",
+    "year"        : "2017",
+    "director"    : "Hallie Meyers-Shyer",
+    "duration"    : "97 min",
+    "description" : "Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her."
+  },
+  {
+    "name"        : "Rememory",
+    "genre"       : "drama / mystery",
+    "year"        : "2017",
+    "director"    : "Mark Palansky",
+    "duration"    : "96 min",
+    "description" : "The widow of a wise professor stumbles upon one of his inventions that's able to record and play a person's memory."
+  },
+  {
+    "name"        : "The Good Catholic",
+    "genre"       : "comedy / drama",
+    "year"        : "2017",
+    "director"    : "Paul Shoulberg",
+    "duration"    : "96 min",
+    "description" : "Daniel loved his job as a small town priest more than anything. Then he met Jane. God help him."
+  }
 ]
