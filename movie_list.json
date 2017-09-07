@@ -1,7 +1,7 @@
 [
   {
     "name"        : "It",
-    "genre"       : "drama / horror",
+    "genre"       : ["drama", "horror"],
     "year"        : "2017",
     "director"    : "Andy Muschietti",
     "duration"    : "135 min",
@@ -9,7 +9,7 @@
   },
   {
     "name"        : "Home Again",
-    "genre"       : "comedy / drama / romance",
+    "genre"       : ["comedy", "drama", "romance"],
     "year"        : "2017",
     "director"    : "Hallie Meyers-Shyer",
     "duration"    : "97 min",
@@ -17,7 +17,7 @@
   },
   {
     "name"        : "Rememory",
-    "genre"       : "drama / mystery",
+    "genre"       : ["drama", "mystery"],
     "year"        : "2017",
     "director"    : "Mark Palansky",
     "duration"    : "96 min",
@@ -25,7 +25,7 @@
   },
   {
     "name"        : "The Good Catholic",
-    "genre"       : "comedy / drama",
+    "genre"       : ["comedy", "drama"],
     "year"        : "2017",
     "director"    : "Paul Shoulberg",
     "duration"    : "96 min",
